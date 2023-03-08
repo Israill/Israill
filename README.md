@@ -10,13 +10,10 @@
 ## contacts:
    
    [![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/IsrailKh) 
-   
-   
-  
-   ## codewars profile:
-   [![codewars](https://www.codewars.com/users/IsrailX/badges/large)](https://www.codewars.com/users/IsrailX) 
-
 
    ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=israill&theme=github_dark)
    ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=israill&theme=github_dark)
    ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=israill&theme=github_dark)
+  
+   ## codewars profile:
+   [![codewars](https://www.codewars.com/users/IsrailX/badges/large)](https://www.codewars.com/users/IsrailX) 
