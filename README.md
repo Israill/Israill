@@ -9,8 +9,8 @@
 
 - 📄 Know about my experiences [https://krasnodar.hh.ru/resume/55517a33ff0be1c3c30039ed1f614333417130](https://krasnodar.hh.ru/resume/55517a33ff0be1c3c30039ed1f614333417130)
 
-<h3 align="left">Connect with me: <a href="t.me/tpircsavaj">telegram</a>
-</h3>
+<!-- <h3 align="left">Connect with me: <a href="t.me/tpircsavaj">telegram</a>
+</h3> -->
 
 
 <p align="left">
