@@ -9,8 +9,9 @@
 
 - 📄 Know about my experiences [https://krasnodar.hh.ru/resume/55517a33ff0be1c3c30039ed1f614333417130](https://krasnodar.hh.ru/resume/55517a33ff0be1c3c30039ed1f614333417130)
 
+<h3 align="left">Connect with me: 
    [![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/tpircsavaj) 
-<h3 align="left">Connect with me: </h3>
+</h3>
 <p align="left">
 </p>
 
