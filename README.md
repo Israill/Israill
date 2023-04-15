@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Israil</h1>
+<h1 align="left">I'm Israil</h1>
 - 🔭 I’m currently working on [philarma](https://github.com/Israill/chr_filarmonia.git)
 
 - 🌱 I’m currently learning **Typescript**
