@@ -8,7 +8,7 @@
 - 📫 How to reach me **tg: @tpircsavaj**
 
 - 📄 Know about my experiences [https://krasnodar.hh.ru/resume/55517a33ff0be1c3c30039ed1f614333417130](https://krasnodar.hh.ru/resume/55517a33ff0be1c3c30039ed1f614333417130)
-
+<a href ="https://t.me/tpircsavaj"><img src ="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <!-- <h3 align="left">Connect with me: <a href="t.me/tpircsavaj">telegram</a>
 </h3> -->
 
