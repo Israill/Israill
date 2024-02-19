@@ -11,7 +11,7 @@
 - 📫 How to reach me: <a href ="https://t.me/tpircsavaj">telegram</a>
 
 
-- 📄 Know about my experiences [https://hh.ru/applicant/resumes/view?resume=2567b71fff0ce3a5b50039ed1f736853796c39](Resume)
+- 📄 Know about my experiences [Resume](https://hh.ru/applicant/resumes/view?resume=2567b71fff0ce3a5b50039ed1f736853796c39)
 <!-- <h3 align="left">Connect with me: <a href="t.me/tpircsavaj">telegram</a>
 </h3> -->
 
